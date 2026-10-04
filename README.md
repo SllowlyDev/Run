@@ -11,11 +11,11 @@ $ pkg install binutils -y
 
 $ pkg install clang -y
 
-$ pip install -r requirements.txt
-
 $ git clone https://github.com/SllowlyDev/Run
 
 $ cd run 
+
+$ pip install -r requirements.txt
 
 $ python run.py
 

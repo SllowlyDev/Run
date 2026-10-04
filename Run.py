@@ -42,6 +42,6 @@ def main():
 
 
 if __name__ == "__main__":
-	os.sysytem("git pull")
+	os.system("git pull")
 	sys.exit(main() or 0)
   

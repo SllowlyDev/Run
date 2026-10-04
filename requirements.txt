@@ -10,8 +10,6 @@ openpyxl
 
 curl_cffi
 
-setuptools-wheel
-
 cython
 
 
